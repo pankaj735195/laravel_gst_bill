@@ -1,2 +1,2 @@
 # laravel_gst_bill
-I developed this  software usig php laravel framework
+I developed this  software using php laravel framework
